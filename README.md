@@ -8,8 +8,6 @@
 
 My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien my spiritual master.
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
 - 🌱 Currently focusing on XR Development in Unity and C#/.Net
 - 🔭 Working on personal projects, The Aural Odyssey and The Fangs of Gods
 - 🌍 Humand Languages: Polish (native), English (C2), German (B2)
