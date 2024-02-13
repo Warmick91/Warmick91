@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Warmick91&theme=cobalt&card_width=900&hide_current_streak=true)](https://git.io/streak-stats" />
+  </a>
+</p>
 
-<!--
-**Warmick91/Warmick91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
 
-Here are some ideas to get you started:
+My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien my spiritual master.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently focusing on XR Development in Unity and C#/.Net
+- 🔭 Working on personal projects, The Aural Odyssey and The Fangs of Gods
+- 🌍 Humand Languages: Polish (native), English (C2), German (B2)
+- 📫 How to reach me: mickiewicz.dbass@gmail.com
+- ⚡ Fun fact: I'm an invested gamer focusing on single-player, narrative-heavy titles
+
+## My Skills 🧠
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Get in Touch 📬
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-mickiewicz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/imperial_chris/)
