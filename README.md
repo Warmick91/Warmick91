@@ -11,7 +11,6 @@ My name is Krzysztof, and I don't think there's a single box that I can quite fi
 - 🌱 Currently focusing on XR Development in Unity and C#/.Net
 - 🔭 Working on personal projects, The Aural Odyssey and The Fangs of Gods
 - 🌍 Humand Languages: Polish (native), English (C2), German (B2)
-- 📫 How to reach me: mickiewicz.dbass@gmail.com
 - ⚡ Fun fact: I'm an invested gamer focusing on single-player, narrative-heavy titles
 
 ## My Skills 🧠
