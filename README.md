@@ -6,7 +6,7 @@
 
 ### Hello there! 👋
 
-My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien my spiritual master.
+My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien the literary master.
 
 - 🌱 Currently focusing on XR Development in Unity and on C#/.Net
 - 🔭 Working on personal projects, "Aural Odyssey" and "The Fangs of Gods"
