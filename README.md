@@ -8,22 +8,19 @@
 
 My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien the literary master.
 
-- 🌱 Currently focusing on XR Development in Unity and on C#/.Net
-- 🔭 Working on personal projects, "Aural Odyssey" and "The Fangs of Gods"
-- 🌍 Humand Languages: Polish (native), English (C2), German (B2)
+- 🌱 Currently focusing on Fullstack (Angular, .NET, SQL, Azure). I like to play with Unity now and then too.
+- 🔭 Working on a personal project, "The Click Pot"
+- 🌍 Human Languages: Polish (native), English (C2), German (B2)
 - ⚡ Fun fact: I'm an invested gamer focusing on single-player, narrative-heavy titles
 
 ## My Skills 🧠
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Get in Touch 📬
 
