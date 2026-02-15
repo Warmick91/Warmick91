@@ -6,12 +6,12 @@
 
 ### Hello there! 👋
 
-My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, and have also worked with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien the literary master.
+My name is Krzysztof, and I don't think there's a single box that I can quite fit into. I am an IHK-certified software developer, hold a Master's Degree in instrumental music (double bass), have traveled the world with one of the most prestigious orchestras on this planet, I am a cosplayer and used to work with a circus. I love philosophy, appreciate sci-fi in its purest form, and consider J.R.R. Tolkien THE literary master.
 
 - 🌱 Currently focusing on Fullstack (Angular, .NET, SQL, Azure). I like to play with Unity now and then too.
 - 🔭 Working on a personal project, "Aural Odyssey"
 - 🌍 Human Languages: Polish (native), English (C2), German (B2)
-- ⚡ Fun fact: I'm an invested gamer focusing on single-player, narrative-heavy titles
+- ⚡ Extra fact: I'm an invested gamer focusing on single-player, narrative-heavy titles
 
 ## My Skills 🧠
 
